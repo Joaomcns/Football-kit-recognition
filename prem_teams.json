@@ -1,0 +1,200 @@
+{
+    "1992-1993": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Chelsea", "Coventry City", 
+        "Crystal Palace", "Everton", "Ipswich Town", "Leeds United", "Liverpool",
+        "Manchester City", "Manchester United", "Middlesbrough", "Norwich City", 
+        "Nottingham Forest", "Oldham Athletic", "Queens Park Rangers", "Sheffield United", 
+        "Sheffield Wednesday", "Southampton", "Tottenham Hotspur", "Wimbledon"
+    ],
+    "1993-1994": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Chelsea", "Coventry City", 
+        "Everton", "Ipswich Town", "Leeds United", "Liverpool", "Manchester City",
+        "Manchester United", "Newcastle United", "Norwich City", "Oldham Athletic", 
+        "Queens Park Rangers", "Sheffield United", "Sheffield Wednesday", "Southampton", 
+        "Swindon Town", "Tottenham Hotspur", "West Ham", "Wimbledon"
+    ],
+    "1994-1995": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Chelsea", "Coventry City", 
+        "Crystal Palace", "Everton", "Ipswich Town", "Leeds United", "Leicester City", 
+        "Liverpool", "Manchester City", "Manchester United", "Newcastle United", 
+        "Norwich City", "Nottingham Forest", "Queens Park Rangers", "Sheffield Wednesday", 
+        "Southampton", "Tottenham Hotspur", "West Ham", "Wimbledon"
+    ],
+    "1995-1996": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Chelsea", 
+        "Coventry City", "Everton", "Leeds United", "Liverpool", "Manchester City", 
+        "Manchester United", "Middlesbrough", "Newcastle United", "Nottingham Forest", 
+        "Queens Park Rangers", "Sheffield Wednesday", "Southampton", "Tottenham Hotspur", 
+        "West Ham", "Wimbledon"
+    ],
+    "1996-1997": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Chelsea", "Coventry City", 
+        "Derby County", "Everton", "Leeds United", "Leicester City", "Liverpool", 
+        "Manchester United", "Middlesbrough", "Newcastle United", "Nottingham Forest", 
+        "Sheffield Wednesday", "Southampton", "Sunderland", "Tottenham Hotspur", 
+        "West Ham", "Wimbledon"
+    ],
+    "1997-1998": [
+        "Arsenal", "Aston Villa", "Barnsley", "Blackburn Rovers", "Bolton Wanderers", 
+        "Chelsea", "Coventry City", "Crystal Palace", "Derby County", "Everton", 
+        "Leeds United", "Leicester City", "Liverpool", "Manchester United", "Newcastle United", 
+        "Sheffield Wednesday", "Southampton", "Tottenham Hotspur", "West Ham", "Wimbledon"
+    ],
+    "1998-1999": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Charlton Athletic", "Chelsea", 
+        "Coventry City", "Derby County", "Everton", "Leeds United", "Leicester City", 
+        "Liverpool", "Manchester United", "Middlesbrough", "Newcastle United", "Nottingham Forest", 
+        "Sheffield Wednesday", "Southampton", "Tottenham Hotspur", "West Ham", "Wimbledon"
+    ],
+    "1999-2000": [
+        "Arsenal", "Aston Villa", "Bradford City", "Chelsea", "Coventry City", 
+        "Derby County", "Everton", "Leeds United", "Leicester City", "Liverpool", 
+        "Manchester United", "Middlesbrough", "Newcastle United", "Sheffield Wednesday", 
+        "Southampton", "Sunderland", "Tottenham Hotspur", "Watford", "West Ham", "Wimbledon"
+    ],
+    "2000-2001": [
+        "Arsenal", "Aston Villa", "Bradford City", "Chelsea", "Coventry City", 
+        "Derby County", "Everton", "Ipswich Town", "Leeds United", "Leicester City", 
+        "Liverpool", "Manchester City", "Manchester United", "Middlesbrough", "Newcastle United", 
+        "Southampton", "Sunderland", "Tottenham Hotspur", "West Ham"
+    ],
+    "2001-2002": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Charlton Athletic", 
+        "Chelsea", "Derby County", "Everton", "Fulham", "Ipswich Town", 
+        "Leeds United", "Leicester City", "Liverpool", "Manchester United", "Middlesbrough", 
+        "Newcastle United", "Southampton", "Sunderland", "Tottenham Hotspur", "West Ham"
+    ],
+    "2002-2003": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Charlton Athletic", "Chelsea", "Everton", "Fulham", "Leeds United", 
+        "Liverpool", "Manchester City", "Manchester United", "Middlesbrough", "Newcastle United", 
+        "Southampton", "Sunderland", "Tottenham Hotspur", "West Bromwich Albion", "West Ham"
+    ],
+    "2003-2004": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Charlton Athletic", "Chelsea", "Everton", "Fulham", "Leeds United", 
+        "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Middlesbrough", 
+        "Newcastle United", "Portsmouth", "Southampton", "Tottenham Hotspur", "Wolverhampton"
+    ],
+    "2004-2005": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Charlton Athletic", "Chelsea", "Crystal Palace", "Everton", "Fulham", 
+        "Liverpool", "Manchester City", "Manchester United", "Middlesbrough", "Newcastle United", 
+        "Norwich City", "Portsmouth", "Southampton", "Tottenham Hotspur", "West Bromwich Albion"
+    ],
+    "2005-2006": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Charlton Athletic", "Chelsea", "Everton", "Fulham", "Liverpool", 
+        "Manchester City", "Manchester United", "Middlesbrough", "Newcastle United", "Portsmouth", 
+        "Sunderland", "Tottenham Hotspur", "West Bromwich Albion", "West Ham", "Wigan Athletic"
+    ],
+    "2006-2007": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Charlton Athletic", 
+        "Chelsea", "Everton", "Fulham", "Liverpool", "Manchester City", 
+        "Manchester United", "Middlesbrough", "Newcastle United", "Portsmouth", "Reading", 
+        "Sheffield United", "Tottenham Hotspur", "Watford", "West Ham", "Wigan Athletic"
+    ],
+    "2007-2008": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Chelsea", "Derby County", "Everton", "Fulham", "Liverpool", 
+        "Manchester City", "Manchester United", "Middlesbrough", "Newcastle United", "Portsmouth", 
+        "Reading", "Sunderland", "Tottenham Hotspur", "West Ham", "Wigan Athletic"
+    ],
+    "2008-2009": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Chelsea", 
+        "Everton", "Fulham", "Hull City AFC", "Liverpool", "Manchester City", 
+        "Manchester United", "Middlesbrough", "Newcastle United", "Portsmouth", "Stoke City", 
+        "Sunderland", "Tottenham Hotspur", "West Bromwich Albion", "West Ham", "Wigan Athletic"
+    ],
+    "2009-2010": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Bolton Wanderers", 
+        "Burnley", "Chelsea", "Everton", "Fulham", "Hull City AFC", 
+        "Liverpool", "Manchester City", "Manchester United", "Portsmouth", "Stoke City", 
+        "Sunderland", "Tottenham Hotspur", "West Ham", "Wigan Athletic", "Wolverhampton"
+    ],
+    "2010-2011": [
+        "Arsenal", "Aston Villa", "Birmingham City", "Blackburn Rovers", "Blackpool", 
+        "Bolton Wanderers", "Chelsea", "Everton", "Fulham", "Liverpool", 
+        "Manchester City", "Manchester United", "Newcastle United", "Stoke City", "Sunderland", 
+        "Tottenham Hotspur", "West Bromwich Albion", "West Ham", "Wigan Athletic", "Wolverhampton"
+    ],
+    "2011-2012": [
+        "Arsenal", "Aston Villa", "Blackburn Rovers", "Bolton Wanderers", "Chelsea", 
+        "Everton", "Fulham", "Liverpool", "Manchester City", "Manchester United", 
+        "Newcastle United", "Norwich City", "Queens Park Rangers", "Stoke City", "Sunderland", 
+        "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "Wigan Athletic", "Wolverhampton"
+    ],
+    "2012-2013": [
+        "Arsenal", "Aston Villa", "Chelsea", "Everton", "Fulham", 
+        "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Norwich City", 
+        "Queens Park Rangers", "Reading", "Southampton", "Stoke City", "Sunderland", 
+        "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "West Ham", "Wigan Athletic"
+    ],
+    "2013-2014": [
+        "Arsenal", "Aston Villa", "Cardiff City", "Chelsea", "Crystal Palace", 
+        "Everton", "Fulham", "Hull City AFC", "Liverpool", "Manchester City", 
+        "Manchester United", "Newcastle United", "Norwich City", "Southampton", "Stoke City", 
+        "Sunderland", "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "West Ham"
+    ],
+    "2014-2015": [
+        "Arsenal", "Aston Villa", "Burnley", "Chelsea", "Crystal Palace", 
+        "Everton", "Hull City AFC", "Leicester City", "Liverpool", "Manchester City", 
+        "Manchester United", "Newcastle United", "Queens Park Rangers", "Southampton", "Stoke City", 
+        "Sunderland", "Swansea City", "Tottenham Hotspur", "West Bromwich Albion", "West Ham"
+    ],
+    "2015-2016": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Chelsea", "Crystal Palace", 
+        "Everton", "Leicester City", "Liverpool", "Manchester City", "Manchester United", 
+        "Newcastle United", "Norwich City", "Southampton", "Stoke City", "Sunderland", 
+        "Swansea City", "Tottenham Hotspur", "Watford", "West Bromwich Albion", "West Ham"
+    ],
+    "2016-2017": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Burnley", "Chelsea", 
+        "Crystal Palace", "Everton", "Hull City AFC", "Leicester City", "Liverpool", 
+        "Manchester City", "Manchester United", "Middlesbrough", "Southampton", "Stoke City", 
+        "Sunderland", "Swansea City", "Tottenham Hotspur", "Watford", "West Bromwich Albion", "West Ham"
+    ],
+    "2017-2018": [
+        "Arsenal", "Bournemouth", "Brighton", "Burnley", "Chelsea", 
+        "Crystal Palace", "Everton", "Huddersfield Town", "Leicester City", "Liverpool", 
+        "Manchester City", "Manchester United", "Newcastle United", "Southampton", "Stoke City", 
+        "Swansea City", "Tottenham Hotspur", "Watford", "West Bromwich Albion", "West Ham"
+    ],
+    "2018-2019": [
+        "Arsenal", "Bournemouth", "Brighton", "Burnley", "Cardiff City", 
+        "Chelsea", "Crystal Palace", "Everton", "Fulham", "Huddersfield Town", 
+        "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", 
+        "Southampton", "Tottenham Hotspur", "Watford", "West Ham", "Wolverhampton"
+    ],
+    "2019-2020": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Brighton", "Burnley", 
+        "Chelsea", "Crystal Palace", "Everton", "Leicester City", "Liverpool", 
+        "Manchester City", "Manchester United", "Newcastle United", "Norwich City", "Sheffield United", 
+        "Southampton", "Tottenham Hotspur", "Watford", "West Ham", "Wolverhampton"
+    ],
+    "2020-2021": [
+        "Arsenal", "Aston Villa", "Brighton", "Burnley", "Chelsea", 
+        "Crystal Palace", "Everton", "Fulham", "Leeds United", "Leicester City", 
+        "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Sheffield United", 
+        "Southampton", "Tottenham Hotspur", "West Bromwich Albion", "West Ham", "Wolverhampton"
+    ],
+    "2021-2022": [
+        "Arsenal", "Aston Villa", "Brentford", "Brighton", "Burnley", 
+        "Chelsea", "Crystal Palace", "Everton", "Leeds United", "Leicester City", 
+        "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Norwich City", 
+        "Southampton", "Tottenham Hotspur", "Watford", "West Ham", "Wolverhampton"
+    ],
+    "2022-2023": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", 
+        "Chelsea", "Crystal Palace", "Everton", "Fulham", "Leeds United", 
+        "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", 
+        "Nottingham Forest", "Southampton", "Tottenham Hotspur", "West Ham", "Wolverhampton"
+    ],
+    "2023-2024": [
+        "Arsenal", "Aston Villa", "Bournemouth", "Brentford", "Brighton", 
+        "Burnley", "Chelsea", "Crystal Palace", "Everton", "Fulham", 
+        "Liverpool", "Luton Town", "Manchester City", "Manchester United", 
+        "Newcastle United", "Nottingham Forest", "Sheffield United", "Tottenham Hotspur", 
+        "West Ham", "Wolverhampton"
+    ]
+}
